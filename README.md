@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**Jamexjr/Jamexjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**James Igri/James Igri
+** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
